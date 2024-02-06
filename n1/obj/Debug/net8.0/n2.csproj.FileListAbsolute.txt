@@ -1,0 +1,14 @@
+C:\Users\ineya\Lesson7\n1\bin\Debug\net8.0\n2.exe
+C:\Users\ineya\Lesson7\n1\bin\Debug\net8.0\n2.deps.json
+C:\Users\ineya\Lesson7\n1\bin\Debug\net8.0\n2.runtimeconfig.json
+C:\Users\ineya\Lesson7\n1\bin\Debug\net8.0\n2.dll
+C:\Users\ineya\Lesson7\n1\bin\Debug\net8.0\n2.pdb
+C:\Users\ineya\Lesson7\n1\obj\Debug\net8.0\n2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ineya\Lesson7\n1\obj\Debug\net8.0\n2.AssemblyInfoInputs.cache
+C:\Users\ineya\Lesson7\n1\obj\Debug\net8.0\n2.AssemblyInfo.cs
+C:\Users\ineya\Lesson7\n1\obj\Debug\net8.0\n2.csproj.CoreCompileInputs.cache
+C:\Users\ineya\Lesson7\n1\obj\Debug\net8.0\n2.dll
+C:\Users\ineya\Lesson7\n1\obj\Debug\net8.0\refint\n2.dll
+C:\Users\ineya\Lesson7\n1\obj\Debug\net8.0\n2.pdb
+C:\Users\ineya\Lesson7\n1\obj\Debug\net8.0\n2.genruntimeconfig.cache
+C:\Users\ineya\Lesson7\n1\obj\Debug\net8.0\ref\n2.dll
